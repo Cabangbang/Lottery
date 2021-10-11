@@ -1,0 +1,2 @@
+# Lottery
+Simple lotto programme
